@@ -1,4 +1,4 @@
-# 🎵 Clone do Spotify - Imersão Front-end Alura
+# 🎵 Clone do Spotify
 
 Este projeto foi desenvolvido durante a **Imersão Front-end da Alura**, onde construímos um **clone do Spotify** aplicando conceitos essenciais do desenvolvimento web. 
 
