@@ -1,0 +1,13 @@
+:root {
+    /* Fonte */
+    --fonte-dm-sans: "DM Sans", sans-serif;
+
+    /* Cores */
+    --cor-fundo-primaria: #123524;
+    --cor-fundo-secundaria: #0e442a;
+    --cor-fundo-terciaria: #155335;
+    --cor-texto-primaria: #cfcfcf;
+    --cor-texto-secundaria: #000000;
+    --bg-icone: #131313;
+    --bg-arrow-color: rgb(27, 104, 64);
+}
